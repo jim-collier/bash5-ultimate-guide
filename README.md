@@ -559,6 +559,8 @@ In rough approximate order of inner-loop performance killing-ness:
 
 ## Error-handling [to-do]
 
+## OK to use `if ls -1A /dir/ &>/dev/null; then echo "It exists"; fi`
+
 ## Minification [to-do]
 -->
 
@@ -572,5 +574,5 @@ But here's how to mitigate every one of the (valid) expressed concerns, and why 
 
 ## Copyright and license
 
-> Copyright © 2025-2026 Jim Collier (ID: 1cv◂‡Vᛦ)<br>
+> Copyright © 2025-2026 Jim Collier [ID: 2უNაɘ«҂թȹɤξπ๙¿ձϖ]<br>
 > Licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en). No warranty.
