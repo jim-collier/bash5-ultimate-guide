@@ -11,6 +11,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 ### Changed
 
 - Made 'README.md' the main content, rather than having it be linked from readme to a separate document.
+
 - Updated the TOC for a different VS Codium plugin.
 
 ## 2025-07-13
@@ -20,7 +21,9 @@ First version.
 ### Added
 
 - Created git project.
+
 - Added project files.
+
 - Wrote sections:
 	- Introduction
 	- What about macOS and BSD
